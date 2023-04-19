@@ -6,3 +6,7 @@ Working on my PROBLEM SOLVING SKILLS by daily practicing coding questions from G
 
 Contest on GFG - 27th March
 ![image](https://user-images.githubusercontent.com/78313062/227971058-d311196f-23b4-4ac7-ad63-24fb6e920458.png)
+
+My first GeekBit:
+![image](https://user-images.githubusercontent.com/78313062/232947764-ec2f32fa-c9ca-4e8c-80b4-3fa2b97ff5e7.png)
+
