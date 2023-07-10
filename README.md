@@ -10,7 +10,15 @@ Contest on GFG - 27th March
 My first GeekBit:
 ![image](https://user-images.githubusercontent.com/78313062/232947764-ec2f32fa-c9ca-4e8c-80b4-3fa2b97ff5e7.png)
 
+100 Geekbits completed
+![image](https://github.com/lakki0704/Daily_Problems-/assets/78313062/665ceacf-1218-4d53-bdac-3862c2190d01)
+
+
 100 problems on leetcode:
 ![image](https://github.com/lakki0704/Daily_Problems-/assets/78313062/151d8f80-3f27-4acc-a524-93cec35aa2a0)
+
+200 problems on leetcode
+![image](https://github.com/lakki0704/Daily_Problems-/assets/78313062/d85860ca-b96c-4b05-b618-cc94674067d3)
+
 
 
