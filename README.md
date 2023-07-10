@@ -1,7 +1,7 @@
 # Daily_Problems-
 Coding practice
 
-Working on my PROBLEM SOLVING SKILLS by daily practicing coding questions from GFG
+Working on my PROBLEM SOLVING SKILLS by daily practicing coding questions from GFG and Leetcode
 
 
 Contest on GFG - 27th March
