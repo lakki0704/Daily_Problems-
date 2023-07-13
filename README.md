@@ -20,5 +20,9 @@ My first GeekBit:
 200 problems on leetcode
 ![image](https://github.com/lakki0704/Daily_Problems-/assets/78313062/d85860ca-b96c-4b05-b618-cc94674067d3)
 
+Starting from 3000+ rank to top 100
+![image](https://github.com/lakki0704/Daily_Problems-/assets/78313062/3463f763-8b0b-4f78-8b12-2b007179dfac)
+
+
 
 
