@@ -23,6 +23,10 @@ My first GeekBit:
 Starting from 3000+ rank to top 100
 ![image](https://github.com/lakki0704/Daily_Problems-/assets/78313062/3463f763-8b0b-4f78-8b12-2b007179dfac)
 
+500 problems on GFG
+![image](https://github.com/lakki0704/Daily_Problems-/assets/78313062/0c52788e-60ae-42f4-a1a1-23df00c106ed)
+
+
 
 
 
