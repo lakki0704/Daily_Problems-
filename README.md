@@ -35,6 +35,10 @@ Starting from 3000+ rank to top 100
 300 problems on Leetcode
 ![image](https://github.com/lakki0704/Daily_Problems-/assets/78313062/302454a4-8731-482a-a0dd-540581f605bc)
 
+400 problems on Leetcode
+![image](https://github.com/lakki0704/Daily_Problems-/assets/78313062/cb2fc53a-844f-4358-aff9-bb0276d53daf)
+
+
 
 
 
