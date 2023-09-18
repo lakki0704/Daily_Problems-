@@ -38,6 +38,10 @@ Starting from 3000+ rank to top 100
 400 problems on Leetcode
 ![image](https://github.com/lakki0704/Daily_Problems-/assets/78313062/cb2fc53a-844f-4358-aff9-bb0276d53daf)
 
+600 problems on GFG
+![image](https://github.com/lakki0704/Daily_Problems-/assets/78313062/d70ca585-dc2b-4451-9fb4-304867068286)
+
+
 
 
 
